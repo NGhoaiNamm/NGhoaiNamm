@@ -10,7 +10,9 @@
 
 ###
 
-<img align="right" height="184" src="https://bom.edu.vn/public/upload/2024/12/meme-meomeo-17.webp"  />
+<br clear="both">
+
+<img align="right" height="156" src="https://bom.edu.vn/public/upload/2024/12/meme-meomeo-17.webp"  />
 
 ###
 
