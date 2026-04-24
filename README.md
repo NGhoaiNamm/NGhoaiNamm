@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="184" src="https://bom.edu.vn/public/upload/2024/12/meme-meomeo-17.webp"  />
 
 ###
@@ -74,14 +72,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NGhoaiNamm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NGhoaiNamm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=NGhoaiNamm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://nghoainamm.github.io/NGhoaiNamm/snake.svg" />
+<img src="https://raw.githubusercontent.com/NGhoaiNamm/NGhoaiNamm/output/snake.svg" alt="Snake animation" />
 
 ###
 
