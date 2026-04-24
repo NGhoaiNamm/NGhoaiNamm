@@ -78,7 +78,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NGhoaiNamm/NGhoaiNamm/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/NGhoaiNamm/NGhoaiNamm/blob/output/snake.svg)
 
 ###
 
