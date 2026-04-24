@@ -60,7 +60,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-nam-170170367/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -81,15 +81,9 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/NGhoaiNamm/NGhoaiNamm/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NGhoaiNamm/NGhoaiNamm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NGhoaiNamm/NGhoaiNamm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NGhoaiNamm/NGhoaiNamm/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
